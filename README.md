@@ -42,7 +42,7 @@
 ### 📫 Contacta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/steban-carrizosa-5a36132aa)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge)](https://asari-community.neocities.org)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge)](https://asari-community.neocities.org/desarrollo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:carrizosaortegon.steban@gmail.com)
 
 ---
